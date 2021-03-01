@@ -1,0 +1,3 @@
+﻿  蛇.cpp
+e:\c++程序\蛇\snake.h(8): warning C4091: “typedef ”: 没有声明变量时忽略“Dir”的左侧
+  蛇.vcxproj -> E:\c++程序\蛇\Debug\蛇.exe
